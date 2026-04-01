@@ -26,5 +26,18 @@
     "password": "1",
     "profile_pic": "https://i.ibb.co/7thxt1J7/27a237c4-b678-471d-acaf-a21bbb131f00.jpg",
     "registered_at": "2026-04-01T16:03:25.811Z"
+  },
+  {
+    "uid": "115823721633336099590",
+    "email": "am9094114@gmail.com",
+    "name": "Ali Mia",
+    "gender": "male",
+    "age": "16",
+    "country": "Bangladesh",
+    "city": "Maona",
+    "phone": "+8801762586049",
+    "password": "1",
+    "profile_pic": "https://i.ibb.co/7t8W3QBz/1.webp",
+    "registered_at": "2026-04-01T16:41:19.099Z"
   }
 ]
